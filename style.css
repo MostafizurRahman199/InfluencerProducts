@@ -2,7 +2,6 @@
 
 * {
   font-family: "Poppins", sans-serif;
-
 }
 
 nav {
@@ -105,13 +104,12 @@ nav {
   border-radius: 10px;
   padding-bottom: 10px;
   width: 329px;
-  height: 490px;
+  height: 550px;
   background-color: white;
   margin-top: 10px;
 }
 .course-detail {
   background-color: white;
- 
 }
 
 .see-more {
@@ -187,12 +185,11 @@ footer ul li {
 
 /* media Queries */
 
-@media only screen and(max-width:540px){
+@media only screen and(max-width:540px) {
   .course-banner-img {
     margin-left: 0px;
   }
 }
-
 
 @media only screen and (max-width: 688px) {
   .first-h1 {
@@ -321,4 +318,3 @@ footer ul li {
     text-align: center;
   }
 }
-
